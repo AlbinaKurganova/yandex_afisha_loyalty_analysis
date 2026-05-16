@@ -1,6 +1,6 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+#*.ipynb
 
 # Python
 __pycache__/
@@ -28,4 +28,4 @@ connects.py
 *.log
 
 # OS
-Thumbs.db
+Thumbs.db.env
