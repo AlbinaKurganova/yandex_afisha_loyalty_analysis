@@ -1,0 +1,31 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Данные
+*.csv
+*.xlsx
+*.db
+
+# Чувствительные данные
+.env
+config.py
+connects.py
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Логи
+*.log
+
+# OS
+Thumbs.db
