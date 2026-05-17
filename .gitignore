@@ -28,4 +28,6 @@ connects.py
 *.log
 
 # OS
-Thumbs.db.env
+Thumbs.db
+
+
